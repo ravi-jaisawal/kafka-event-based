@@ -1,7 +1,6 @@
 package org.example.service;
 
-import org.example.dto.UserDto;
-import org.example.model.User;
+import org.example.entity.User;
 import org.example.model.UserCreatedEvent;
 import org.example.producer.UserEventProducer;
 import org.example.repository.UserRepository;

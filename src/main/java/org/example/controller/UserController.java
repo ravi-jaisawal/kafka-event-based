@@ -1,7 +1,6 @@
 package org.example.controller;
 
-import org.example.dto.UserDto;
-import org.example.model.User;
+import org.example.entity.User;
 import org.example.model.UserCreatedEvent;
 import org.example.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

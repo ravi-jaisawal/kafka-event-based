@@ -1,6 +1,5 @@
 package org.example.producer;
 
-import org.example.model.User;
 import org.example.model.UserCreatedEvent;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
